@@ -1,0 +1,6 @@
+    {
+        "customer": {"firstName" : "Janusz", "lastName" : "Nosacz", "phoneNumber" : "123456789"},
+        "cause": "dzieja sie rzeczy niestworzone",
+        "appointmentDate" : "2018-10-30"
+    }
+
